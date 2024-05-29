@@ -43,3 +43,7 @@ Uso
         Utilizar el formulario de inicio de sesión para acceder a la plataforma si ya tiene una cuenta.
         Si es un nuevo usuario, puede registrarse utilizando el formulario de registro.
         Una vez dentro de la plataforma, puede explorar las funcionalidades disponibles.
+
+
+¡IMPORTANTE!
+        Mantenemos tambien archivos de versiones antiguas con errores, para mostrar el progreso y o la facil reescritura para el usuario
